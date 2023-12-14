@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**csndvl/csndvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I’m currently looking for a data engineering job
 🌱 I’m currently learning ... Pyspark
 💬 Ask me about Anything!
